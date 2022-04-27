@@ -8,5 +8,11 @@
   },
   "devDependencies": {
     "nuxt": "3.0.0-rc.1"
+  },
+  "dependencies": {
+    "axios": "^0.27.0",
+    "firebase-admin": "^10.1.0",
+    "flag-waiter": "^1.0.5",
+    "lodash": "^4.17.21"
   }
 }
